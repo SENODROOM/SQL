@@ -1,0 +1,4 @@
+CREATE DATABASE MDPharmacy;
+USE MDPharmacy;
+SELECT * FROM MDPharmacy;
+DROP DATABASE MDPharmacy;
