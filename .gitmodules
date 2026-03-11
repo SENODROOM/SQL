@@ -1,0 +1,4 @@
+[submodule "SQL-Tutorials"]
+	path = SQL-Tutorials
+	url = https://github.com/SENODROOM/SQL-Tutorials.git
+	branch = main
